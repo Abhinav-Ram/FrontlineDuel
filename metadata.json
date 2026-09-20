@@ -1,0 +1,6 @@
+{
+  "name": "Frontline Duel",
+  "description": "A high-octane two-player local multiplayer arena shooter with customizable weapons, game-changing supers, and multiple competitive modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
